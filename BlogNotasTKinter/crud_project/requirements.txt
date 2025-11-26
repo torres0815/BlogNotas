@@ -1,0 +1,2 @@
+# Este proyecto no requiere dependencias externas
+# Todas las importaciones son de la biblioteca estándar de Python
